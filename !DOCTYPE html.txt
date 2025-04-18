@@ -1,0 +1,12 @@
+<!DOCTYPE html> 
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Freedom : The Game (only $9.99!)</h1>
+<p>Enjoy Freedom.</p>
+
+</body>
+</html>
